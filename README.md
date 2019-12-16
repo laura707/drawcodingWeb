@@ -1,2 +1,3 @@
-# drawcodingWeb
-drawcoding 웹 페이지
+# 수룡이의 수정이 체험기 게임 웹 버전
+
+'수룡이의 수정이 체험기' 게임의 웹 버전 URL
